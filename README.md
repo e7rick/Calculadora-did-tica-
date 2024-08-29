@@ -1,2 +1,2 @@
-# Calculadora-did-tica-
+# Calculadora-didatica-
 Calculadora em C de conversao de bases 
